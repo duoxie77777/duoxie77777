@@ -4,12 +4,12 @@
   
   <!-- 个人信息卡片 -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=duoxie77777&show_icons=true&theme=blueberry&count_private=true&include_all_commits=true&hide_border=true" width="400" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duoxie77777&layout=compact&theme=blueberry&hide_border=true&langs_count=8&hide=html,css" width="400" alt="Top Languages" />
+    <img src="https://stats.justsong.cn/api/github-stats?username=duoxie77777&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="400" alt="GitHub Stats" />
+    <img src="https://stats.justsong.cn/api/top-langs?username=duoxie77777&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css" width="400" alt="Top Languages" />
   </div>
 
   <!-- 贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duoxie77777&theme=blueberry&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" width="800" alt="Contribution Graph" style="margin: 20px 0;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duoxie77777&theme=blueberry&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" width="800" alt="Contribution Graph" style="margin: 50px 0;" />
 
   <!-- 技术栈徽章 -->
   <div style="display: flex; justify-content: center; gap: 8px; flex-wrap: wrap; margin: 10px 0;">
@@ -38,7 +38,7 @@
 <!-- 内容分区 -->
 ### 👨‍💻 About Me
 - 🎯 前端工程师，专注于 **Web 前端开发**、**小程序开发**、**用户体验优化**
-- 📝 持续输出技术文章，记录前端踩坑与实践：[duoxie.cc.cd](https://duoxie.cc.cd)
+- 📝 持续记录前端踩坑与实践-个人博客：[duoxie.cc.cd](https://duoxie.cc.cd)
 - 🔧 擅长：React/Vue 生态、TypeScript、工程化、跨端开发
 - 📚 正在学习：前端性能优化、低代码平台、WebAssembly
 - 💬 欢迎交流：前端技术、开源项目、职业发展
@@ -48,13 +48,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=duoxie77777&theme=blueberry&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
 </div>
 
-<!-- 底部装饰 -->
+<!-- GitHub Trophy 奖杯 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/duoxie77777/duoxie77777/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution" style="margin-top: 20px;" />
-  <p>⭐️ From <a href="https://github.com/duoxie77777">duoxie77777</a></p>
+  <img src="https://github-profile-trophy.vercel.app/?username=duoxie77777&theme=radical&no-frame=true&row=1&column=5" alt="GitHub Trophy" />
 </div>
 
-<!-- 访问量统计 -->
+<!-- 底部装饰 -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=duoxie77777&label=Profile%20views&color=4299E1&style=flat" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@master/dist/generated/overview.svg?username=duoxie77777&theme=radical" style="margin-top: 20px; width: 800px;" alt="3D Contribution" />
+  <p>⭐️ From <a href="https://github.com/duoxie77777">duoxie77777</a></p>
 </div>
