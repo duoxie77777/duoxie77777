@@ -43,10 +43,10 @@
   <div style="background: #F0F8FF; border-radius: 8px; padding: 25px; margin-bottom: 25px;">
     <h2 style="color: #2D3748; margin-top: 0; border-bottom: 2px solid #4299E1; padding-bottom: 8px; display: inline-block;">👨‍💻 About Me</h2>
     <ul style="line-height: 1.8; color: #4A5568; padding-left: 20px; margin-top: 15px;">
-      <li>🎯 立志做个伟大的前端工程师，专注于 <strong>Web 前端开发</strong>、<strong>小程序开发</strong>、<strong>用户体验优化</strong>。目前是腾讯IEG事业群某项目组成员，负责全栈开发</li>
+      <li>🎯 立志做个伟大的前端工程师，专注于 <strong>Web 前端开发</strong>、<strong>Web Java开发</strong>、<strong>小程序开发</strong>、<strong>用户体验优化</strong>。目前是腾讯IEG事业群某项目组成员，负责全栈开发</li>
       <li>📝 持续记录前端踩坑与实践 → 个人博客：<a href="https://duoxie.cc.cd" target="_blank" style="color: #4299E1; text-decoration: none;">duoxie.cc.cd</a></li>
       <li>🔧 前端：React/Vue 生态、TypeScript、工程化、跨端开发（Taro/UniApp）</li>
-      <li>🔧 后端：Node.js（Express、Nest）、MySQL、PostgreSQL、MongoDB</li>
+      <li>🔧 后端：Java全家桶、Node.js（Express、Nest）、MySQL、PostgreSQL、MongoDB</li>
       <li>📚 正在学习：前端性能优化、低代码平台、WebAssembly、微前端架构</li>
       <li>💬 欢迎交流：前端技术、开源项目、职业发展、小程序开发实战</li>
     </ul>
