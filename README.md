@@ -38,8 +38,7 @@
 </div>
 
 <!-- 内容分区：增加分隔线+卡片布局，提升层次感 -->
-<div style="width: 90%; max-width: 900px; margin: 0 auto;">
-  <!-- 关于我：卡片化 -->
+<!-- <div style="width: 90%; max-width: 900px; margin: 0 auto;">
   <div style="background: #F0F8FF; border-radius: 8px; padding: 25px; margin-bottom: 25px;">
     <h2 style="color: #2D3748; margin-top: 0; border-bottom: 2px solid #4299E1; padding-bottom: 8px; display: inline-block;">👨‍💻 About Me</h2>
     <ul style="line-height: 1.8; color: #4A5568; padding-left: 20px; margin-top: 15px;">
@@ -52,7 +51,6 @@
     </ul>
   </div>
 
-  <!-- 额外信息：联系+访问量 -->
   <div style="background: #E8F4F8; border-radius: 8px; padding: 20px; text-align: center;">
     <div style="margin-bottom: 15px;">
       <a href="https://github.com/duoxie77777" target="_blank" style="margin: 0 10px; text-decoration: none;">
@@ -65,4 +63,4 @@
     <img src="https://komarev.com/ghpvc/?username=duoxie77777&label=Profile%20Views&color=4299E1&style=flat" alt="Profile Views" />
     <p style="color: #718096; margin-top: 10px;">⭐ Thanks for visiting! Updated in 2026</p>
   </div>
-</div>
+</div> -->
